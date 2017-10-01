@@ -1,0 +1,11 @@
+/**
+ * @version   Afterburner WordPress Theme
+ * @author    RocketTheme http://www.rockettheme.com
+ * @copyright Copyright (C) RocketTheme, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+#header .module {width: 610px;margin-left: 0;}
+#header .module ul {float: right;}
+#nav ul li li:hover, #nav ul li li.hover {position: static;}
+ol.commentlist {margin-left: 0;}
+form#commentform input {margin-bottom: 10px;padding: 0px 5px 2px 5px;}

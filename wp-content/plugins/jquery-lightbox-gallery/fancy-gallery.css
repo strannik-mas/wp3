@@ -1,0 +1,9 @@
+body div.fancy-gallery img {
+  display: inline;
+  float: none;
+  clear: none;
+}
+
+body div.fancy-gallery div.clear {
+  clear: both;
+}
